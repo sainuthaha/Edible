@@ -18,8 +18,7 @@ Functional Requirements
 2. Price (Consistency) /Buy - Consistency
 
 # High Level Diagram
-
-![image](https://github.com/user-attachments/assets/263dbc5c-0306-4467-af83-e7675e908336)
+![image](https://github.com/user-attachments/assets/727c3c3d-7680-45fe-940a-af42445aac99)
 
 
 
