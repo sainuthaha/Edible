@@ -17,6 +17,10 @@ Functional Requirements
 1. Availability
 2. Price (Consistency) /Buy - Consistency
 
+# High Level Diagram
+
+![image](https://github.com/user-attachments/assets/263dbc5c-0306-4467-af83-e7675e908336)
+
 
 
 
