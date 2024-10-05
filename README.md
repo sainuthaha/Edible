@@ -15,8 +15,7 @@ Functional Requirements
 
 # Non Functional Requirements:
 1. Availability
-2. Price (Consistency)
-3. 
+2. Price (Consistency) /Buy - Consistency
 
 
 
